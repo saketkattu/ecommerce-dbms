@@ -51,7 +51,7 @@ CREATE TABLE Payment
     );
 
 
-***INSERTING VALUES
+**INSERTING VALUES**
 
 insert into Customer values('cid100','MAX','G-453','632014',9093137896);
 insert into Customer values('cid101','LARA','G-567','632015',6593086543);
